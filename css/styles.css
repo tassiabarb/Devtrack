@@ -3,13 +3,13 @@
 :root {
   font-family: "DM Sans", sans-serif;
   color: #29263b;
-  background: #f8f8fc;
+  background: #fcfbfb;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  --purple: #7561dc;
+  --purple: #53498b;
   --ink: #29263b;
   --muted: #9290a2;
   --line: #eeedf4;
@@ -156,7 +156,7 @@ a {
   width: 36px;
   height: 36px;
   place-items: center;
-  color: #6955cd;
+  color: #53498b;
   background: #eeeaff;
   border-radius: 50%;
   font-size: 13px;
@@ -329,7 +329,7 @@ a {
 }
 
 .stat-icon-purple {
-  color: #7864dc;
+  color: #53498b;
   background: #f0edff;
 }
 
@@ -520,7 +520,7 @@ a {
   align-items: center;
   gap: 7px;
   padding: 0 10px;
-  color: #6f5ad3;
+  color: #53498b;
   background: #f4f1ff;
   border-radius: 7px;
   font-size: 10px;
@@ -629,7 +629,7 @@ a {
 }
 
 .footer-mark {
-  color: #7c6bd1;
+  color: #53498b;
   font-weight: 700;
 }
 
